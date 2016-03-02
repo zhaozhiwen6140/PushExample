@@ -1,0 +1,60 @@
+# view AndroidManifest.xml #generated:102
+-keep class com.umeng.message.ElectionReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:94
+-keep class com.umeng.message.MessageReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:75
+-keep class com.umeng.message.NotificationProxyBroadcastReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:111
+-keep class com.umeng.message.RegistrationReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:79
+-keep class com.umeng.message.SystemReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:172
+-keep class com.umeng.message.UmengDownloadResourceService { <init>(...); }
+
+# view AndroidManifest.xml #generated:141
+-keep class com.umeng.message.UmengIntentService { <init>(...); }
+
+# view AndroidManifest.xml #generated:118
+-keep class com.umeng.message.UmengMessageBootReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:155
+-keep class com.umeng.message.UmengMessageCallbackHandlerService { <init>(...); }
+
+# view AndroidManifest.xml #generated:144
+-keep class com.umeng.message.UmengMessageIntentReceiverService { <init>(...); }
+
+# view AndroidManifest.xml #generated:124
+-keep class com.umeng.message.UmengService { <init>(...); }
+
+# view AndroidManifest.xml #generated:52
+-keep class com.umeng.message.example.AddOrUpdateLocalNotificationActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:51
+-keep class com.umeng.message.example.LocalNotificationActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:41
+-keep class com.umeng.message.example.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:35
+-keep class com.umeng.message.example.MyApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:54
+-keep class com.umeng.message.example.MyPushIntentService { <init>(...); }
+
+# view AndroidManifest.xml #generated:60
+-keep class com.umeng.message.example.NotificationService { <init>(...); }
+
+# view AndroidManifest.xml #generated:50
+-keep class com.umeng.message.example.TestActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:175
+-keep class com.umeng.message.local.UmengLocalNotificationService { <init>(...); }
+
+# onClick res/layout/activity_test.xml #generated:13
+-keepclassmembers class * { *** gotoMainActivity(...); }
+

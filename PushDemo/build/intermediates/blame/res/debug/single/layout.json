@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\workspace\\demo\\PushExample\\PushDemo\\build\\intermediates\\res\\merged\\debug\\layout\\localnotification_item.xml",
+        "source": "E:\\workspace\\demo\\PushExample\\PushDemo\\res\\layout\\localnotification_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\demo\\PushExample\\PushDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\workspace\\demo\\PushExample\\PushDemo\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\workspace\\demo\\PushExample\\PushDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_localnotification.xml",
+        "source": "E:\\workspace\\demo\\PushExample\\PushDemo\\res\\layout\\activity_localnotification.xml"
+    },
+    {
+        "merged": "E:\\workspace\\demo\\PushExample\\PushDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_localnotification.xml",
+        "source": "E:\\workspace\\demo\\PushExample\\PushDemo\\res\\layout\\activity_add_localnotification.xml"
+    },
+    {
+        "merged": "E:\\workspace\\demo\\PushExample\\PushDemo\\build\\intermediates\\res\\merged\\debug\\layout\\notification_view.xml",
+        "source": "E:\\workspace\\demo\\PushExample\\PushDemo\\res\\layout\\notification_view.xml"
+    },
+    {
+        "merged": "E:\\workspace\\demo\\PushExample\\PushDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
+        "source": "E:\\workspace\\demo\\PushExample\\PushDemo\\res\\layout\\activity_test.xml"
+    }
+]
